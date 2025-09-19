@@ -79,7 +79,8 @@ Count employees working on live projects.
 🔹 Performance Ranking → Ranking employees by salary and department.
 
 
-<img width="997" height="405" alt="image" src="https://github.com/user-attachments/assets/686bb2da-2fd0-4ca1-ba3b-588f7f172d48" />
+<img width="1019" height="441" alt="image" src="https://github.com/user-attachments/assets/57ed0599-39b6-4cac-937e-58d542d9d81e" />
+
 
 
 
